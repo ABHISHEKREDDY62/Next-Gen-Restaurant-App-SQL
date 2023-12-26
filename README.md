@@ -1,5 +1,5 @@
 # Next-Gen Restaurant Application SQL Project : #
-- - - -
+
 
 ## Project Overview ##
 
@@ -18,18 +18,23 @@ This repository contains all the SQL scripts, database designs, and documentatio
 
 **To use these scripts:**
 
-Clone the repository.
+* Clone the repository.
 
-Set up a SQL server (e.g., MySQL, Oracle).
+* Set up a SQL server (e.g., MySQL, Oracle).
 
-Run the SQL scripts on your server.
+* Run the SQL scripts on your server.
 
 ## Demonstrations ##
 
-**Images:**
+### Images: ###
 
-![*Conceptual Design*](https://github.com/ABHISHEKREDDY62/Next-Gen-Restaurant-App-SQL/blob/main/Conceptual%20Design.jpeg)
+**Ouputs of SQL Queries:**
+https://github.com/ABHISHEKREDDY62/Next-Gen-Restaurant-App-SQL/blob/main/Screenshots.pdf
 
+**Conceptual Design:**
+https://github.com/ABHISHEKREDDY62/Next-Gen-Restaurant-App-SQL/blob/main/Conceptual%20Design.jpeg
+
+**Logical Design (or) ER Diagram:**
 ![*Logical Design or ER Diagram*](https://github.com/ABHISHEKREDDY62/Next-Gen-Restaurant-App-SQL/blob/main/ER%20Diagram.jpeg)
 
 
@@ -44,6 +49,5 @@ The key learnings from this project include:
 
 * **Advanced SQL Query Writing:** Developed skills in writing complex SQL queries, including those that involve multiple tables, aggregate functions, and nested queries. This enhanced my ability to extract meaningful information from large datasets.
 
-
-
+<br><br><br>
 Suggestions are always welcome!
