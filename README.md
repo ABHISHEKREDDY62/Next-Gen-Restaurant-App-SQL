@@ -26,7 +26,11 @@ Run the SQL scripts on your server.
 
 ## Demonstrations ##
 
-Screenshots
+**Images:**
+
+https://github.com/ABHISHEKREDDY62/Next-Gen-Restaurant-App-SQL/blob/main/Conceptual%20Design.jpeg
+
+https://github.com/ABHISHEKREDDY62/Next-Gen-Restaurant-App-SQL/blob/main/ER%20Diagram.jpeg
 
 ## Learnings ##
 
