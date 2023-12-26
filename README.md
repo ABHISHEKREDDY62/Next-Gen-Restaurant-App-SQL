@@ -29,13 +29,13 @@ This repository contains all the SQL scripts, database designs, and documentatio
 ### Images: ###
 
 **Ouputs of SQL Queries:**
-https://github.com/ABHISHEKREDDY62/Next-Gen-Restaurant-App-SQL/blob/main/Screenshots.pdf
+https://github.com/ABHISHEKREDDY62/Next-Gen-Restaurant-App-SQL/blob/main/Query%20Results/Screenshots.pdf
 
 **Conceptual Design:**
-https://github.com/ABHISHEKREDDY62/Next-Gen-Restaurant-App-SQL/blob/main/Conceptual%20Design.jpeg
+https://github.com/ABHISHEKREDDY62/Next-Gen-Restaurant-App-SQL/blob/main/Design%20Images/Conceptual%20Design.jpeg
 
 **Logical Design (or) ER Diagram:**
-![*Logical Design or ER Diagram*](https://github.com/ABHISHEKREDDY62/Next-Gen-Restaurant-App-SQL/blob/main/ER%20Diagram.jpeg)
+![*Logical Design or ER Diagram*](https://github.com/ABHISHEKREDDY62/Next-Gen-Restaurant-App-SQL/blob/main/Design%20Images/ER%20Diagram.jpeg)
 
 
 ## Learnings ##
