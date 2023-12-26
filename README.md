@@ -50,4 +50,4 @@ The key learnings from this project include:
 * **Advanced SQL Query Writing:** Developed skills in writing complex SQL queries, including those that involve multiple tables, aggregate functions, and nested queries. This enhanced my ability to extract meaningful information from large datasets.
 
 <br><br><br>
-Suggestions are always welcome!
+*Suggestions are always welcome!*
