@@ -1,4 +1,4 @@
-# Next-Gen Restaurant Application SQL Project #Markup : #
+# Next-Gen Restaurant Application SQL Project : #
 - - - -
 
 ## Project Overview ##
