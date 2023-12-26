@@ -19,7 +19,9 @@ This repository contains all the SQL scripts, database designs, and documentatio
 **To use these scripts:**
 
 Clone the repository.
+
 Set up a SQL server (e.g., MySQL, Oracle).
+
 Run the SQL scripts on your server.
 
 ## Demonstrations ##
